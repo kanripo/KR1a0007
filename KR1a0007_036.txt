@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 周易註疏__周易略例
-#+DATE: 2015-09-23 09:34:10
-#+PROPERTY: KEY 周易註疏/周易略例考證
-#+PROPERTY: JUAN 36
+# -*- mode: mandoku-view; -*-
+#+TITLE: 周易註疏
+#+DATE: 2015-08-24 21:53:25.530040
+#+PROPERTY: ID KR1a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1a0007_WYG_036-1a>¶
 欽定四庫全書¶
 　周易注疏卷十三¶
@@ -417,4 +418,3 @@
 小人道憂也音義(長之/丈反)¶
 　¶
 　周易注疏卷十三¶
-

@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 周易註疏__周易略例
-#+DATE: 2015-09-23 09:34:10
-#+PROPERTY: KEY 周易註疏/周易略例考證
-#+PROPERTY: JUAN 33
+# -*- mode: mandoku-view; -*-
+#+TITLE: 周易註疏
+#+DATE: 2015-08-24 21:53:25.471786
+#+PROPERTY: ID KR1a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR1a0007_WYG_033-1a>¶
 　周易注疏卷十一考證¶
 天尊地卑乾坤定矣注乾坤其易之門戸○釋文本無¶
@@ -93,4 +94,3 @@
 　¶
 　¶
 　周易注疏卷十一考證¶
-

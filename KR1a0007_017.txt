@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 周易註疏__周易略例
-#+DATE: 2015-09-23 09:34:10
-#+PROPERTY: KEY 周易註疏/周易略例考證
-#+PROPERTY: JUAN 17
+# -*- mode: mandoku-view; -*-
+#+TITLE: 周易註疏
+#+DATE: 2015-08-24 21:53:25.096765
+#+PROPERTY: ID KR1a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三考證
 <pb:KR1a0007_WYG_017-1a>¶
 　周易注疏卷三考證¶
 師卦辭丈人吉○崔憬曰子夏傳作大人李鼎祚云彖¶
@@ -93,4 +94,3 @@
 　¶
 　¶
 　周易注疏卷三考證¶
-

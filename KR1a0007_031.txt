@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 周易註疏__周易略例
-#+DATE: 2015-09-23 09:34:10
-#+PROPERTY: KEY 周易註疏/周易略例考證
-#+PROPERTY: JUAN 31
+# -*- mode: mandoku-view; -*-
+#+TITLE: 周易註疏
+#+DATE: 2015-08-24 21:53:25.427498
+#+PROPERTY: ID KR1a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十考證
 <pb:KR1a0007_WYG_031-1a>¶
 　周易注疏卷十考證¶
 渙彖利渉大川乘木有功也注乗木即渉難也木者專¶
@@ -75,4 +76,3 @@
 　¶
 　¶
 　周易注疏卷十考證¶
-
